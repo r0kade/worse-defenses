@@ -1,17 +1,19 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Worst Defenses"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "wdef"
 
 #your name
-author: "You"
+author: "Rokade"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "wdef.Main"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "the worst mindustry mod that adds new defense blocks..."
+
+subtitle: "todo"
 
 #the mod version
 version: 1.0
