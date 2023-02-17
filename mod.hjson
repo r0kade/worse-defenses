@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "Worst Defenses"
+displayName: "Worse Defenses"
 
 #the internal name of your mod
 name: "wdef"
@@ -11,9 +11,9 @@ author: "Rokade"
 main: "wdef.Main"
 
 #the mod description as seen in the mod dialog
-description: "the worst mindustry mod that adds new defense blocks..."
+description: "a mindustry mod."
 
-subtitle: "todo"
+subtitle: "a mindustry mod"
 
 #the mod version
 version: 1.0
