@@ -6,6 +6,7 @@ import mindustry.entities.*;
 import mindustry.content.*;
 import arc.util.*;
 import arc.audio.*;
+import arc.math.*;
 import wdef.blocks.*;
 
 /** A block that explodes when tapped.
